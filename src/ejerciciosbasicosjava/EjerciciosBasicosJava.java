@@ -17,16 +17,8 @@ public class EjerciciosBasicosJava {
      return false;
     }
    
-    public boolean multa(int velocidad, boolean multaca){
-        int sinMulta = 0;
-        int multaPequeña = 1;
-        int multaGrande = 2;
-        if(multaca){
-        return true;}
-    if(sinMulta<=60){
-    return true;
-    }
-    return false;
+    public int multa(int velocidad, boolean birthday){
+      return 0;
     }
     
     /**
